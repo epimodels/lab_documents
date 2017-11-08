@@ -32,15 +32,26 @@ This document is intended to layout the guidelines, expectations and policies of
 
 ### Evaluation
 
-**Insert Evaluation Info Here**
+The primary method of informal feedback for all members of the lab is through ther regularly scheduled meetings with Dr. Lofgren and/or other supervisors within the lab (i.e. a postdoc overseeing an undergraduate student's project). If you have questions or concerns about your progress, the direction of your research, etc. please bring them up.
+
+Note that students in the Lofgren Lab may be formally enrolled in several different programs, with different requirements (especially for doctoral students). Consult the handbook of your program for specifics.
+
+**Undergraduates**: Formal evaluation of undergraduate students will depend on how they are involved in the lab (i.e. graded credits vs. summer work etc.) as well as their level of experience, field, etc. Dr. Lofgren will lay out the expectations for each undergraduate student individually.
+
+**Graduate Students**: Several evaluation stages exist for graduate students as they progress through their carrer at WSU. These include:
+
+- *Doctoral Research Credits*: Typically a departmental 800-level course, at least one credit of this class is required for all doctoral students in the lab. While these are not graded credits, students receive a binary grade of **S**atisfactory/**U**nsatisfactory. The receipt of a U-grade is an indicator of a need for serious improvement.
+- *Qualifying Exam*: Some programs require a qualifying exam, which is an intensive exam meant to evaluate as student's grasp of their entire coursework and the fundimental aspects of their field. Passing one's QE is an essential step in moving beyond the coursework-phase of one's program and into intensive research.
+- *Preliminary Exam*: The preliminary exam lays out your intended doctoral research, and consists of a formal written product, an exam, and an oral defense of your proposed research with your committee, where the overall plan, the methods you propose to use, the assumptions made, etc. will be evaluated. This step is essential for laying out your plans for the final years of your program.
+- *Defense*: The final evaluation of your doctoral program, a doctoral defense is a presentation of your dissertation research followed by a question and answer session with both your committee and other members of the faculty. Once you have passed your defense you are, effectively, a PhD. Note that while the defense is not a formality, and you may be asked challenging questions, your committee will likely not allow you to schedule your defense until they're confident you will pass.
+
+**Postdocs**: The formal evaluation of postdocs is largely based on an annual performance review, which will also be used in determining if a contract will be extended for projects with continued funding support.
 
 ## Personal Interactions within the Lab, WSU, and the Wider Research Community
 
 Science is founded on the exchange of ideas, and this exchange occurs best when people feel free and safe to express their thoughts in a respectful environment. Members of the Lofgren Lab are expected to treat their fellow lab-mates, other members of SGAH and WSU, and members of the wider research community with dignity and respect. Failure to do so will be addressed in an appropriate manner.
 
 Similarly, the responsible conduct of research is governed by Federal law, WSU policy, and the norms and standards of the academic community. Scientific fraud, academic dishonesty or violation of ethical guidelines *will not* be tolerated.
-
-Members of the lab are encouraged to familiarize themselves with the ways to report concerns...not really happy with the verbiage here.
 
 ### Collaboration
 
@@ -58,17 +69,17 @@ Members of the lab are also highly encouraged to avail themselves of the support
 
 - **Lab Website**: The Lofgren Lab maintains an official website, which showcases our research, lists members and alumni of the lab, provides central contact information, etc. At present, it is maintained by Dr. Lofgren. If you notice your information is missing, a recent publication is not listed, etc. please inform him.
 
-- - Current URL: http://www.lofgrenlab.org
+    - Current URL: http://www.lofgrenlab.org
 
-- - Subdomains for specific projects may be available (i.e. macbeth.lofgrenlab.org). Talk to Dr. Lofgren to see if a sub-domain is appropriate and available.
+    - Subdomains for specific projects may be available (i.e. demo.lofgrenlab.org). Talk to Dr. Lofgren to see if a sub-domain is appropriate and available.
 
-- **Personal Websites**: Members of the lab are encouraged to maintain their own personal websites that highlight their own work, research interests, etc. These should ideally link back to the main Lofgren Lab site.
+- **Personal Websites**: Members of the lab are encouraged to maintain their own personal websites that highlight their own work, research interests, etc. These should ideally link back to the main Lofgren Lab site in some form, and vice versa.
 
 ## Publications and Conferences
 
 ### Authorship
 
-- **Authorship Requirements**: The Lofgren Lab follows the **INSERT ORGANIZATION HERE** [link] guidelines of for determining eligibility for authorship. Authors must have had a substantial contribution to the design and analysis of the study, as well as having at least reviewed and commented on a draft of the manuscript. Because of the work, effort and expense that goes into the collection of data, it is likely that organizations providing the Lofgren Lab with data will have at least one author on any ensuing manuscripts directly related to that data. The Lofgren Lab **does not** give "courtesy authorships" to those not involved with a study in the hopes of boosting a manuscript's profile, chances of success, etc.
+- **Authorship Requirements**: The Lofgren Lab follows the [ICMJE guidelines](http://www.icjme.org) of for determining eligibility for authorship. Authors must have had a substantial contribution to the design and analysis of the study, as well as having at least reviewed and commented on a draft of the manuscript. Because of the work, effort and expense that goes into the collection of data, it is likely that organizations providing the Lofgren Lab with data will have at least one author on any ensuing manuscripts directly related to that data. The Lofgren Lab **does not** give "courtesy authorships" to those not involved with a study in the hopes of boosting a manuscript's profile, chances of success, etc.
 
 - **Authorship Order**: The majority of publications emerging from the Lab will be in disciplines where authorship order is not alphabetical, but instead carries certain meanings. Generally speaking, the first author is expected to be the individual who carried out most of the "work" of the project, and who did most of the writing of the manuscript. The senior author can be thought of like the person at the end of Oscar acceptance speeches, "...none of this would have been possible without the help of...". In the middle, things are somewhat more ambiguous. Often the second author is assumed to be someone who did a substantial amount of coding, data collection, etc.
 
@@ -82,7 +93,9 @@ Members of the lab are also highly encouraged to avail themselves of the support
 
 ### Conferences
 
-- **Attending Conferences**: Members of the lab are encouraged to attend academic conferences. These meetings are important for networking, meeting future colleagues, collaborators and empoloyers, presenting your work and staying up to date on the developments in the field. Particularly, members of the lab are advised to select a single conference and aim to submit to that conference and attend it yearly - repeated visits to the same conference are often more productive for building relationships than a more scattershot approach.
+Conferences are an important part of your scientific career, and represent opportunities to present ongoing work, network with your fellow scientists, be exposed to developing resesarch in the field, and begin to build your professional reputation.
+
+- **Attending Conferences**: Members of the lab are encouraged to attend academic conferences. Particularly, members of the lab are advised to select a single conference and aim to submit to that conference and attend it yearly - repeated visits to the same conference are often more productive for building relationships than a more scattershot approach.
 
 - **Funding for Conferences**: Conferences are expensive. Funding to attend a conference is likely only available if you have a poster or oral presentation accepted for the conference, and even then, funding availability is subject to the lab's budget. Consult Dr. Lofgren to make sure there is sufficient funding to support conference travel prior to submitting. If needed, a single member of the lab may be asked to present multiple people's projects, especially if there are a number of posters from different authors. Members of the lab are **not** expected to fund their own conference travel.
 
@@ -90,27 +103,36 @@ Members of the lab are also highly encouraged to avail themselves of the support
 
 - **Reimbursement**: As mentioned above, conference travel is expensive. Some of these expenses, such as registration and airfare, can be paid for in advance by SGAH. Other expenses, such as hotels, meals and other incidentals can only be reimbursed. Generally, the reimbursement process at WSU is relatively swift (compared to some other institutions). However, this can still put significant financial strain on a graduate student or postdoc. This strain *should never* stand between a member of the lab being able to travel to present their work. Please come speak to Dr. Lofgren in confidence and we will find a solution.
 
-- **Travel Grants, Volunteering, etc.**: Many conferences have student travel grants to help defray the cost of attending a conference. You are *strongly* encouraged to apply for these, even if funding otherwise exists to pay for your travel. These are often fairly prestigeous awards that can help bolter your CV, and they free up funds for future travel. Similarly, some conferences (i.e. SER) have volunteer opportunities, allowing students to work the registration desk, act as room monitors, etc. during the conference in exchange for waived conference fees. Do not overlook these opportunities - in addition to helping fund your travel, these opportunities often let you meet important figures in the field on a more personal basis, and volunteers are often given first pick of tickets to limited-space events like breakfast sessions.
+- **Travel Grants, Volunteering, etc.**: Many conferences have student travel grants to help defray the cost of attending a conference. You are *strongly* encouraged to apply for these, even if funding otherwise exists to pay for your travel. These are often fairly prestigeous awards that can help bolster your CV, and they free up funds for future travel. Similarly, some conferences (i.e. SER) have volunteer opportunities, allowing students to work the registration desk, act as room monitors, etc. during the conference in exchange for waived conference fees. Do not overlook these opportunities - in addition to helping fund your travel, these opportunities often let you meet important figures in the field on a more personal basis, and volunteers are often given first pick of tickets to limited-space events like breakfast sessions.
+
+- **Common Conferences Lab members, collaborators or alumni attend**:
+    - SER (Society for Epidemiologic Research)
+    - SHEA (Society for Healthcare Epidemiology of America)
+    - IDWeek (SHEA, IDSA, HIVMA, PIDS joint conference)
 
 ### Workshops, Summer Schools, etc.
 
 Funding *may* be available to attend workshops, summer schools or other programs intended to advance a lab member's education, introduce them to a special skillset, etc. If you are interested in attending such a program, discuss it with Dr. Lofgren.
 
+Summer schools and workshops members of the lab have previously attended:
+
+- SISMID
+
 ### Open Access, Open Data, and Pre-prints
 
-- **Open Access**: Where possible, the Lofgren Lab supports placing research findings in open access venues. In many/most cases, NIH/CDC funding requires the depositing of funded manuscripts in Pubmed Central one year after publication. Many journals do this automatically, especially in the biomedical field, but it is the corresponding author's responsibility to make sure this occurs. In this case, Dr. Lofgren considers this sufficiently open access - the lab will not pay an additional fee to make the manuscript immediately accessable barring special circumstances. For papers accepted in open access journals, or where there is no funding-related open access mandate, the Lab will pay for open access fees as budget allows. Consult with Dr. Lofgren **before** submitting a manuscript to an open access publication.
+- **Open Access**: Where possible, the Lofgren Lab supports placing research findings in open access venues. In many/most cases, NIH/CDC funding requires the depositing of funded manuscripts in Pubmed Central one year after publication. Many journals do this automatically, especially in the biomedical field, but it is the corresponding author's responsibility to make sure this occurs. In this case, Dr. Lofgren considers this sufficiently open access - the lab will not pay an additional fee to make the manuscript immediately accessable barring special circumstances (for example, an outbreak-related paper where timely dissemination will have a major impact). For papers accepted in open access journals, or where there is no funding-related open access mandate, the Lab will pay for open access fees as budget allows. Consult with Dr. Lofgren **before** submitting a manuscript to an open access publication.
 
 - **Open Data**: For most manuscripts, accompanying code and data should be made freely available as part of a paper-specific repository on the Lab's Github site (see Resources.md). This includes the code used to run simulations, analyze simulation data, produce plots, etc. as well as any data produced via simulation. This code should be clean, well-commented, and otherwise usable by interested readers. References, code and data for other projects, either ongoing or completed, should be removed.
 
-- - *Human Subjects Data*: Non-simulated data from human subjects involves more concerns about privacy and anonymity, and the publication of this data is likely governed by IRB approvals, data use agreements, etc. Consult with Dr. Lofgren before making this type of data available.
+    - *Human Subjects Data*: Non-simulated data from human subjects involves more concerns about privacy and anonymity, and the publication of this data is likely governed by IRB approvals, data use agreements, etc. Consult with Dr. Lofgren before making this type of data available.
 
 - **Pre-prints**: Pre-prints are copies of manuscripts that are posted online *prior* to submission to a peer-reviewed journal, and are intended to make preliminary research results available to a wider audience in a timely manner. While in some fields pre-prints are widely accepted, the biomedical field has not yet reached a consensus on the use of pre-prints (this is especially true for medical journals). While *many* journals do not consider pre-prints to be prior publication, it is best to check the policies of the specific journal you intent to submit to prior to posting a pre-print.
 
-- - *Preprint Servers*: At the moment, the most appropriate pre-print server for nearly all papers from the Lab is bioarXiv (**SPELLING**)
+    - *Preprint Servers*: At the moment, the most appropriate pre-print server for nearly all papers from the Lab is [bioRxiv](http://www.biorxiv.org).
 
 ### "Alternative" Careers
 
-Members of the Lofgren Lab are encouraged to consider career paths beyond academic faculty, including other types of positions in academia as well as careers in government or private industry. As Dr. XXX at the University of North Carolina notes, realistically for a field at steady-state, the replacement value of the average faculty member in that field is 1, meaning only one of their students is likely to go on to a tenure-track faculty position, and even if a field is doubling, that number is only 2.
+Members of the Lofgren Lab are encouraged to consider career paths beyond academic faculty, including other types of positions in academia as well as careers in government or private industry. Realistically for a field at steady-state, the replacement value of the average faculty member in that field is 1, meaning only one of their students is likely to go on to a tenure-track faculty position, and even if a field is doubling, that number is only 2.
 
 Students and postdocs considering these careers are equally important to the success of the Lab, and have the same access to equipment, support, funding for travel, etc. as well as the same expectations for publication, academic performance, etc.
 
@@ -122,7 +144,7 @@ Members of the Lab are encouraged to explore their own research interests, with 
 
 - Side projects should remain *side* projects, and should not impede the progress of projects that are funding you, or are necessary for your academic progress.
 
-- Because side projects are often difficult to link to a funded project's aims or goals, funding for presenting these projects at conferences, publication fees, etc. may be limited or unavailable.
+- Because side projects are often difficult to link to a funded project's aims or goals, funding for presenting these projects at conferences, publication fees, etc. may be limited.
 
 ### Leaving the Lab
 
@@ -131,4 +153,4 @@ There are a number of reasons to leave the Lab, from changing research interests
 Upon leaving, it is expected that you provide Dr. Lofgren with any data, code, materials, etc. necessary to allow another member of the Lab to continue to work on any incomplete or ongoing projects you are leaving behind. Lab members moving on to new academic positions may wish to take these projects with them to continue working on them - the ability to do this will vary from project to project, depending on the resources involved, any contractual agreements that govern the project, etc. and will be discussed between the Lab member and Dr. Lofgren on a case-by-case basis, with the aim of helping support them in their new position while still ensuring the ongoing success of the Lab.
 
 ### Version:
-0.2
+0.3
