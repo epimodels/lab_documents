@@ -26,9 +26,9 @@ This document is intended to layout the guidelines, expectations and policies of
 
 ### Lab-wide Meetings
 
-- **Lab Meetings**: Twice a month, the entire lab will meet as a group. This is an opportunity to discuss projects as a whole, coordinate lab activities, or just share the trials and tribulations (and victories) that are part of the scientific experience. The schedule will be determined at the beginning of the semester, and regular attendence is expected. While lab members will occasionally be asked to present their work, discuss the methods they are using, etc. please also feel free to request this time to practice presentations or talks in front of a friendly audience. Dr. Lofgren is responsible for bringing snacks.
+- **Lab Meetings**: Approximately once a month, the entire lab will meet as a group. This is an opportunity to discuss projects as a whole, coordinate lab activities, or just share the trials and tribulations (and victories) that are part of the scientific experience. The schedule will be determined at the beginning of the semester, and regular attendence is expected. While lab members will occasionally be asked to present their work, discuss the methods they are using, etc. please also feel free to request this time to practice presentations or talks in front of a friendly audience. Dr. Lofgren is responsible for bringing snacks.
 
-- **Lab Dinners**: On occasion (approximately once or twice a semester) Dr. Lofgren will organize and host a "lab dinner", either at his house, a local park, restaurant, etc. These are intended as social occasions, to help the lab get together in a relaxed, social and non-academic environment. Lab members are encouraged to attend, but these are by no means mandatory. Feel free to bring spouses, significant others, children, etc.
+- **Lab Dinners**: On occasion (approximately once a semester) Dr. Lofgren will organize and host a "lab dinner", either at his house, a local park, restaurant, etc. These are intended as social occasions, to help the lab get together in a relaxed, social and non-academic environment. Lab members are encouraged to attend, but these are by no means mandatory. Feel free to bring spouses, significant others, children, etc.
 
 ### Evaluation
 
@@ -53,17 +53,21 @@ Science is founded on the exchange of ideas, and this exchange occurs best when 
 
 Similarly, the responsible conduct of research is governed by Federal law, WSU policy, and the norms and standards of the academic community. Scientific fraud, academic dishonesty or violation of ethical guidelines *will not* be tolerated.
 
+Concerns may be brought to Dr. Lofgren, or Becky Manning. Concerns regarding sexual harassment or discrimination should be addressed to WSU's Title IX Coordinator (https://oeo.wsu.edu/title-ix/).
+
 ### Collaboration
 
 Modern science is built on collaboration, and this is especially true for a computational lab, which is largely dependent on the research collection efforts of others. Lab members are encouraged to collaborate freely across WSU and between other institutions, and to view these collaborations as long-term partnerships. These links are also important for your future career, as collaborators are often important sources of positions, letters of recommendation, introductions, etc.
 
 Note that in some cases, different discipline-specific norms may come into conflict. For example, the relative importance of conferences vs. papers, whether a paper should be written in Word or LaTeX, or the acceptability of pre-prints. In resolving these issues, it is important to be respectful of other fields, recognize that these differences do not carry moral weight, and to ensure that everyone in the collaboration is getting what they require to succeed.
 
+Dr. Lofgren should be consulted before beginning these collaborations however, to ensure that lab resources are allocated appropriately, student and postdoc progress is protected, etc.
+
 ### Personal Issues
 
 It is possible that issues will arise in your personal life that will impact your performance in the lab - constraining your time, making certain tasks more difficult, or requiring some time to address your health and well-being. Members of the lab should feel free to schedule a private meeting with Dr. Lofgren to discuss these issues *as they wish* and in as *much or little detail* as they are comfortable with in order to help find an accomidation that will work for them.
 
-Members of the lab are also highly encouraged to avail themselves of the support programs that are available to them as members of the WSU community.
+Members of the lab are also highly encouraged to avail themselves of the support programs that are available to them as members of the WSU community. This includes the [Division of Student Affairs](https://www.studentaffairs.wsu.edu) and [Cougar Health Services](https://cougarhealth.wsu.edu).
 
 ### Personal and Lab Websites
 
@@ -99,11 +103,13 @@ Conferences are an important part of your scientific career, and represent oppor
 
 - **Funding for Conferences**: Conferences are expensive. Funding to attend a conference is likely only available if you have a poster or oral presentation accepted for the conference, and even then, funding availability is subject to the lab's budget. Consult Dr. Lofgren to make sure there is sufficient funding to support conference travel prior to submitting. If needed, a single member of the lab may be asked to present multiple people's projects, especially if there are a number of posters from different authors. Members of the lab are **not** expected to fund their own conference travel.
 
-- **International Conferences**: It is often much more difficult to find funding to support travel to international conferences, and airfare, registration and lodging in international locations is often considerably more expensive than domestic destinations. Please consult Dr. Lofgren *prior* to submitting to an international conference.
+- **International Conferences**: It is often much more difficult to find funding to support travel to international conferences, and airfare, registration and lodging in international locations is often considerably more expensive than domestic destinations. 
 
 - **Reimbursement**: As mentioned above, conference travel is expensive. Some of these expenses, such as registration and airfare, can be paid for in advance by SGAH. Other expenses, such as hotels, meals and other incidentals can only be reimbursed. Generally, the reimbursement process at WSU is relatively swift (compared to some other institutions). However, this can still put significant financial strain on a graduate student or postdoc. This strain *should never* stand between a member of the lab being able to travel to present their work. Please come speak to Dr. Lofgren in confidence and we will find a solution.
 
 - **Travel Grants, Volunteering, etc.**: Many conferences have student travel grants to help defray the cost of attending a conference. You are *strongly* encouraged to apply for these, even if funding otherwise exists to pay for your travel. These are often fairly prestigeous awards that can help bolster your CV, and they free up funds for future travel. Similarly, some conferences (i.e. SER) have volunteer opportunities, allowing students to work the registration desk, act as room monitors, etc. during the conference in exchange for waived conference fees. Do not overlook these opportunities - in addition to helping fund your travel, these opportunities often let you meet important figures in the field on a more personal basis, and volunteers are often given first pick of tickets to limited-space events like breakfast sessions.
+
+- **Conference Codes of Conduct**: Many conferences are now issuing Codes of Conduct for their attendees (for example: [SER](https://epiresearch.org/about-us/code-of-conduct/)). While attending a conference you are expected to abide by these codes, and act in a professional and respectful manner. Violating these codes can have major ramifications on your career, including being banned from conferences, removal from the organizing society, and disciplinary action on your return home.
 
 - **Common Conferences Lab members, collaborators or alumni attend**:
     - SER (Society for Epidemiologic Research)
@@ -116,7 +122,7 @@ Funding *may* be available to attend workshops, summer schools or other programs
 
 Summer schools and workshops members of the lab have previously attended:
 
-- SISMID
+- Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID): University of Washington
 
 ### Open Access, Open Data, and Pre-prints
 
@@ -153,4 +159,4 @@ There are a number of reasons to leave the Lab, from changing research interests
 Upon leaving, it is expected that you provide Dr. Lofgren with any data, code, materials, etc. necessary to allow another member of the Lab to continue to work on any incomplete or ongoing projects you are leaving behind. Lab members moving on to new academic positions may wish to take these projects with them to continue working on them - the ability to do this will vary from project to project, depending on the resources involved, any contractual agreements that govern the project, etc. and will be discussed between the Lab member and Dr. Lofgren on a case-by-case basis, with the aim of helping support them in their new position while still ensuring the ongoing success of the Lab.
 
 ### Version:
-0.3
+0.5

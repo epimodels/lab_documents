@@ -43,12 +43,11 @@ In addition to your personal repository, the Lofgren Lab maintains a group accou
 
 ## Desks, Workspaces, etc.
 
-Desks are a somewhat fluid resource within the Allen Center. While the Lofgren Lab does not have dedicated lab space (not being a wet-lab), we have access to desks on the 3rd floor near 311 (Dr. Lofgren's office). Finding a desk that's open may require some discussion with Becky Manning in SGAH Administration.
+Desks are a somewhat fluid resource within the Allen Center. While the Lofgren Lab does not have dedicated lab space (not being a wet-lab), we have access to desks on the 3rd floor near 311 (Dr. Lofgren's office). Finding a desk that is open may require some planning and effort.
 
-Conference rooms can also be booked for small group meetings, brainstorming sessions, group coding, etc. Email Cynthia Goldwater to reserve a room.
+Conference rooms can also be booked for small group meetings, brainstorming sessions, group coding, etc. Email Kristina Elkins to reserve a room.
 
-- Current Reservations:
-    - Allen 201: Every-other Tuesdsay from 12 to 2 for the CDC MIND project conference call + 1 hour for project meetings.
+- Current Reservations: None
 
 ## Lab Library
 
@@ -70,4 +69,4 @@ Dr. Lofgren's office contains a large number of books, journal back issues, etc.
 **Programming**
 
 ## Version:
-0.2
+0.3
