@@ -7,5 +7,6 @@
 
 pandoc expectations.md -s -o Lofgren_Lab_Expectations.pdf
 pandoc resources.md -s -o Lofgren_Lab_Resources.pdf
+pandoc present_projects.md -s -o Present_Projects.pdf
 
 printf "+++ PDF Compilation Complete+++ \n"
