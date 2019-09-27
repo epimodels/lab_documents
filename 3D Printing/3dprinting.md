@@ -25,5 +25,3 @@ There are swatches of most filaments we have used in Dr. Lofgren's office, in th
 | PLA      	| Protopasta  	| Matte Fiber 	| Green         	| Heavy stringing, tactile fiber feeling        	|
 | PLA      	| Protopasta  	| Matte Fiber 	| Orange        	| Easy to print, less tactile                   	|
 | PLA      	| Protopasta  	| Metallic    	| Galaxy Purple 	|                                               	|
-| Orange 	| Eric        	| Allen 311    	| N/A         	|
-
