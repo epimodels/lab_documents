@@ -30,6 +30,10 @@ This document is intended to layout the guidelines, expectations and policies of
 
 - **Lab Dinners**: On occasion (approximately once a semester) Dr. Lofgren will organize and host a "lab dinner", either at his house, a local park, restaurant, etc. These are intended as social occasions, to help the lab get together in a relaxed, social and non-academic environment. Lab members are encouraged to attend, but these are by no means mandatory. Feel free to bring spouses, significant others, children, etc.
 
+### Committee Meetings
+
+- **Food and Beverages**: Students in the Lofgren Lab are *not* expected to provide refreshments of any sort for meetings of their dissertation committee, qualifying exams, dissertation defenses, etc. If a particular event calls for snacks, coffee or anything else, that is the responsibility of Dr. Lofgren.
+
 ### Evaluation
 
 The primary method of informal feedback for all members of the lab is through ther regularly scheduled meetings with Dr. Lofgren and/or other supervisors within the lab (i.e. a postdoc overseeing an undergraduate student's project). If you have questions or concerns about your progress, the direction of your research, etc. please bring them up.
