@@ -83,6 +83,10 @@ Members of the lab are also highly encouraged to avail themselves of the support
 
 - **Personal Websites**: Members of the lab are encouraged to maintain their own personal websites that highlight their own work, research interests, etc. These should ideally link back to the main Lofgren Lab site in some form, and vice versa.
 
+### Social Media
+
+In order to support the seperation of one's personal life and professional life, Dr. Lofgren will not accept connections on social media services not intended for professional use. His professional Twitter account is @GermsAndNumbers. Members of the Lab are expected to use social media appropriately, and at their discretion.
+
 ## Publications and Conferences
 
 ### Authorship
@@ -138,7 +142,7 @@ Summer schools and workshops members of the lab have previously attended:
 
 - **Pre-prints**: Pre-prints are copies of manuscripts that are posted online *prior* to submission to a peer-reviewed journal, and are intended to make preliminary research results available to a wider audience in a timely manner. While in some fields pre-prints are widely accepted, the biomedical field has not yet reached a consensus on the use of pre-prints (this is especially true for medical journals). While *many* journals do not consider pre-prints to be prior publication, it is best to check the policies of the specific journal you intent to submit to prior to posting a pre-print.
 
-    - *Preprint Servers*: At the moment, the most appropriate pre-print server for nearly all papers from the Lab is [bioRxiv](http://www.biorxiv.org).
+    - *Preprint Servers*: At the moment, the most appropriate pre-print server for nearly all papers from the Lab is [medRxiv](https://www.medrxiv.org).
 
 ### "Alternative" Careers
 
@@ -162,5 +166,24 @@ There are a number of reasons to leave the Lab, from changing research interests
 
 Upon leaving, it is expected that you provide Dr. Lofgren with any data, code, materials, etc. necessary to allow another member of the Lab to continue to work on any incomplete or ongoing projects you are leaving behind. Lab members moving on to new academic positions may wish to take these projects with them to continue working on them - the ability to do this will vary from project to project, depending on the resources involved, any contractual agreements that govern the project, etc. and will be discussed between the Lab member and Dr. Lofgren on a case-by-case basis, with the aim of helping support them in their new position while still ensuring the ongoing success of the Lab.
 
+### Lauren's Promise
+I will listen and believe you if someone is threatening you. 
+
+Lauren McCluskey, a 21-year-old honors student athlete, was murdered on Oct. 22, 2018, on the University of Utah campus by a man she briefly dated. We must all take actions to ensure that this never happens again. 
+
+If you are in immediate danger, call **911**.
+
+If you are experiencing sexual assault, domestic violence, and stalking, please report it to me and I will connect you to resources or call Alternatives to Violence of the Palouse at **877-334-2887** (24-hour crisis hotline).  
+
+Any form of sexual harassment or violence will not be excused or tolerated at Washington State University. WSU has instituted procedures to respond to violations of these laws and standards, programs aimed at the prevention of such conduct, and intervention on behalf of the victims.
+
+WSU Police officers will treat victims of sexual assault, domestic violence, and stalking with respect and dignity. Confidentiality is of the utmost importance and WSU Police will assist by providing resources to victims.  In addition to its law enforcement efforts regarding sexual assault, domestic violence and stalking, WSU Police refer victims to the appropriate university and/or local community counseling and other resources devoted to assisting victims.
+
+Advocates help survivors determine their own needs in regards to their physical and emotional health, reporting options, and academic concerns. They connect survivors to campus and community services, and provide accompaniment to important appointments (court, hospital, and police) and support throughout the process. WSUPD can also connect you with advocacy services, if desired. The local advocacy group is Alternatives to Violence of the Palouse, whose services are free, immediate, and confidential.
+
+Other confidential resources include WSU Counseling and Psychological Services.  If you would like to speak with a counselor after business hours, WSUPD can contact the on-call counselor and have them call you directly or a crisis telephone number is provided. Information shared with the counselor will not be provided to WSUPD without expressed permission from you.
+
+WSU Counseling and Psychological Services 509-335-2159 (crisis services line)
+
 ### Version:
-0.5
+1.0

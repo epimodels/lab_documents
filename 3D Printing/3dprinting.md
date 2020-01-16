@@ -4,6 +4,8 @@ This document serves as a record and notekeeping document for the Lofgren Lab's 
 
 ## Printer Notes
 
+Current Printer Status: Down for Repairs (Y-axis Timing Belt is broken)
+
 
 ## Filament Notes
 
@@ -25,3 +27,9 @@ There are swatches of most filaments we have used in Dr. Lofgren's office, in th
 | PLA      	| Protopasta  	| Matte Fiber 	| Green         	| Heavy stringing, tactile fiber feeling        	|
 | PLA      	| Protopasta  	| Matte Fiber 	| Orange        	| Easy to print, less tactile                   	|
 | PLA      	| Protopasta  	| Metallic    	| Galaxy Purple 	|                                               	|
+| PLA      	| Hatchbox  	|           	| Yellow        	| Remarkably easy to print with, ignore temperature range |
+
+## STL Notes
+
+Swatch, Octopus and Heat Tower = 20g
+Swatchtopus = 11g
