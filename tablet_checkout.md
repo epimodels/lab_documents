@@ -4,8 +4,11 @@ This document serves as the checkout sheet for the Lofgren Lab's small collectio
 
 | Tablet 	| Who Has It? 	| Where Is It? 	| What Study? 	|
 |--------	|-------------	|--------------	|-------------	|
-| Blue   	| Eric        	| Allen 311    	| N/A         	|
+| Blue   	| Katelin       | Allen 311    	| N/A         	|
 | Orange 	| Eric        	| Allen 311    	| N/A         	|
+| Green   | Maxine        | Maxine        | VOHOS
+| L Blue  | Sam           | Sam           | VOHOS
+| Red     | Steph         | Steph         | VOHOS
 
 Tablet Specs:
 * Blue: Samsung Galaxy Tab A, 8" (2018 vintage)
