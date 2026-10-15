@@ -4,7 +4,7 @@
 
 ### About the Lofgren Lab
 
-The Lofgren Lab, part of the Paul G. Allen School for Global Animal Health (SGAH) at Washington State University, is a computational epidemiology group working at the intersection of human and animal health. Using mathematical, computational and statistical approaches, the Lab tackles challenging problems including:
+The Lofgren Lab, part of the Paul G. Allen School for Global Health (SGH) at Washington State University, is a computational epidemiology group working at the intersection of human and animal health. Using mathematical, computational and statistical approaches, the Lab tackles challenging problems including:
 
 - Healthcare-associated infections
 - Antimicrobial resistance in humans and animals
@@ -26,13 +26,17 @@ This document is intended to layout the guidelines, expectations and policies of
 
 ### Lab-wide Meetings
 
-- **Lab Meetings**: Approximately once a month, the entire lab will meet as a group. This is an opportunity to discuss projects as a whole, coordinate lab activities, or just share the trials and tribulations (and victories) that are part of the scientific experience. The schedule will be determined at the beginning of the semester, and regular attendence is expected. While lab members will occasionally be asked to present their work, discuss the methods they are using, etc. please also feel free to request this time to practice presentations or talks in front of a friendly audience. Dr. Lofgren is responsible for bringing snacks.
+- **Lab Meetings**: Approximately twice a month, the entire lab will meet as a group. This is an opportunity to discuss projects as a whole, coordinate lab activities, or just share the trials and tribulations (and victories) that are part of the scientific experience. The schedule will be determined at the beginning of the semester, and regular attendence is expected. While lab members will occasionally be asked to present their work, discuss the methods they are using, etc. please also feel free to request this time to practice presentations or talks in front of a friendly audience.
 
 - **Lab Dinners**: On occasion (approximately once a semester) Dr. Lofgren will organize and host a "lab dinner", either at his house, a local park, restaurant, etc. These are intended as social occasions, to help the lab get together in a relaxed, social and non-academic environment. Lab members are encouraged to attend, but these are by no means mandatory. Feel free to bring spouses, significant others, children, etc.
 
 ### Committee Meetings
 
-- **Food and Beverages**: Students in the Lofgren Lab are *not* expected to provide refreshments of any sort for meetings of their dissertation committee, qualifying exams, dissertation defenses, etc. If a particular event calls for snacks, coffee or anything else, that is the responsibility of Dr. Lofgren.
+- **Food and Beverages**: Students in the Lofgren Lab are *not* expected to provide refreshments of any sort for meetings of their dissertation committee, qualifying exams, dissertation defenses, etc. If a particular event calls for snacks, coffee or anything else, that is the responsibility of Dr. Lofgren. Volunteers are welcome if this brings you pleasure (or you need an excuse to bake) but is not mandatory.
+
+### Seminars, Invited Speakers, etc.
+
+- Students and postdocs are highly encouraged to attend these events in person. While it is not mandatory (except for graded participation like the AIMS seminar), it is both a good way to be exposed to a broad swathe of cutting edge science, a way to meet people in the field, and a means of being exposed to different presentation and speaking styles.
 
 ### Evaluation
 
@@ -53,11 +57,11 @@ Note that students in the Lofgren Lab may be formally enrolled in several differ
 
 ## Personal Interactions within the Lab, WSU, and the Wider Research Community
 
-Science is founded on the exchange of ideas, and this exchange occurs best when people feel free and safe to express their thoughts in a respectful environment. Members of the Lofgren Lab are expected to treat their fellow lab-mates, other members of SGAH and WSU, and members of the wider research community with dignity and respect. Failure to do so will be addressed in an appropriate manner.
+Science is founded on the exchange of ideas, and this exchange occurs best when people feel free and safe to express their thoughts in a respectful environment. Members of the Lofgren Lab are expected to treat their fellow lab-mates, other members of SGH and WSU, and members of the wider research community with dignity and respect. Failure to do so will be addressed in an appropriate manner.
 
 Similarly, the responsible conduct of research is governed by Federal law, WSU policy, and the norms and standards of the academic community. Scientific fraud, academic dishonesty or violation of ethical guidelines *will not* be tolerated.
 
-Concerns may be brought to Dr. Lofgren, or Becky Manning. Concerns regarding sexual harassment or discrimination should be addressed to WSU's Title IX Coordinator (https://oeo.wsu.edu/title-ix/).
+Concerns may be brought to Dr. Lofgren, Dr. Anders Omsland for graduate students or Brieann Andriesen. Concerns regarding sexual harassment or discrimination should be addressed to WSU's Title IX Coordinator (https://oeo.wsu.edu/title-ix/).
 
 ### Collaboration
 
@@ -70,6 +74,8 @@ Dr. Lofgren should be consulted before beginning these collaborations however, t
 ### Personal Issues
 
 It is possible that issues will arise in your personal life that will impact your performance in the lab - constraining your time, making certain tasks more difficult, or requiring some time to address your health and well-being. Members of the lab should feel free to schedule a private meeting with Dr. Lofgren to discuss these issues *as they wish* and in as *much or little detail* as they are comfortable with in order to help find an accomidation that will work for them.
+
+Critically, it is important that you not "fail silent", to borrow a term from software engineering. There is far less that can be done if people are unaware you are struggling.
 
 Members of the lab are also highly encouraged to avail themselves of the support programs that are available to them as members of the WSU community. This includes the [Division of Student Affairs](https://www.studentaffairs.wsu.edu) and [Cougar Health Services](https://cougarhealth.wsu.edu).
 
@@ -85,7 +91,7 @@ Members of the lab are also highly encouraged to avail themselves of the support
 
 ### Social Media
 
-In order to support the seperation of one's personal life and professional life, Dr. Lofgren will not accept connections on social media services not intended for professional use. His professional Twitter account is @GermsAndNumbers. Members of the Lab are expected to use social media appropriately, and at their discretion.
+In order to support the seperation of one's personal life and professional life, Dr. Lofgren will not accept connections on social media services not intended for professional use. His professional BlueSky account is @GermsAndNumbers. The other available option is LinkedIn. Members of the Lab are expected to use social media appropriately, and at their discretion.
 
 ## Publications and Conferences
 
@@ -97,7 +103,7 @@ In order to support the seperation of one's personal life and professional life,
 
 - **Negotiating Authorship Order**: A rough notion of authorship order, or at the very least who is first and who is senior author, should be in place towards the start of the project, and *absolutely* should be in place before writing begins on the paper. This helps not only in preventing misunderstandings, but also in understanding everyone's role in the project - someone who is a middle-author on a paper generally should *not* be the person expected to write the bulk of the first draft. A candid conversation about authorship order is advisable from the outset of a project.
 
-- **Corresponding Authorship**: In addition to authorship order, one author must also be designated the "Corresponding Author". This is the author to whom media inqueries, emails, etc. are addressed, and in some manuscript submission systems, this is also the person who must submit the manuscript. This should ideally be someone with a stable email address, and when in doubt, Dr. Lofgren is a safe choice.
+- **Corresponding Authorship**: In addition to authorship order, one author must also be designated the "Corresponding Author". This is the author to whom media inqueries, emails, etc. are addressed, and in some manuscript submission systems, this is also the person who must submit the manuscript. This should ideally be someone with a stable email address and by default it should be Dr. Lofgren.
 
 - **Co-First Authorship**: Some journals allow authors to designate two or more individuals as "co-first" authors, essentially suggesting they should share the primary credit for the manuscript. It is unclear how many readers take these sort of co-first designations seriously, however if you wish to designate co-first authors, feel free to do so. Note that, if pairs of co-first authors publish multiple papers together, you should allocate the position of the *actual* first position in the authorship list as evenly as possible (e.g. Paper 1: Jones, Smith et al. and Paper 2: Smith, Jones et al.)
 
@@ -113,7 +119,7 @@ Conferences are an important part of your scientific career, and represent oppor
 
 - **International Conferences**: It is often much more difficult to find funding to support travel to international conferences, and airfare, registration and lodging in international locations is often considerably more expensive than domestic destinations. 
 
-- **Reimbursement**: As mentioned above, conference travel is expensive. Some of these expenses, such as registration and airfare, can be paid for in advance by SGAH. Other expenses, such as hotels, meals and other incidentals can only be reimbursed. Generally, the reimbursement process at WSU is relatively swift (compared to some other institutions). However, this can still put significant financial strain on a graduate student or postdoc. This strain *should never* stand between a member of the lab being able to travel to present their work. Please come speak to Dr. Lofgren in confidence and we will find a solution.
+- **Reimbursement**: As mentioned above, conference travel is expensive. Some of these expenses, such as registration and airfare, can be paid for in advance by SGH. Other expenses, such as hotels, meals and other incidentals can only be reimbursed. Generally, the reimbursement process at WSU is relatively swift (compared to some other institutions). However, this can still put significant financial strain on a graduate student or postdoc. This strain *should never* stand between a member of the lab being able to travel to present their work. Please come speak to Dr. Lofgren in confidence and we will find a solution.
 
 - **Travel Grants, Volunteering, etc.**: Many conferences have student travel grants to help defray the cost of attending a conference. You are *strongly* encouraged to apply for these, even if funding otherwise exists to pay for your travel. These are often fairly prestigeous awards that can help bolster your CV, and they free up funds for future travel. Similarly, some conferences (i.e. SER) have volunteer opportunities, allowing students to work the registration desk, act as room monitors, etc. during the conference in exchange for waived conference fees. Do not overlook these opportunities - in addition to helping fund your travel, these opportunities often let you meet important figures in the field on a more personal basis, and volunteers are often given first pick of tickets to limited-space events like breakfast sessions.
 
@@ -123,6 +129,7 @@ Conferences are an important part of your scientific career, and represent oppor
     - SER (Society for Epidemiologic Research)
     - SHEA (Society for Healthcare Epidemiology of America)
     - IDWeek (SHEA, IDSA, HIVMA, PIDS joint conference)
+    - Epidemics (Infectious disease dynamics)
 
 ### Workshops, Summer Schools, etc.
 
@@ -186,4 +193,4 @@ Other confidential resources include WSU Counseling and Psychological Services. 
 WSU Counseling and Psychological Services 509-335-2159 (crisis services line)
 
 ### Version:
-1.0
+1.1

@@ -4,7 +4,7 @@ This document serves as the checkout sheet for the Lofgren Lab's collection of t
 
 | Title 								| Who Has It? 	| Where Is It? 	| 
 |-------------------------------------	|-------------	|--------------	|
-| AVMA Pet Ownership Sourcebook     	|  Matt         |  Returned to Eric     | 
-| Social Networks and Health      		|  Matt         |  Returned to Eric     |
-| Intelligence & Security Informatics   |  Matt         |  Returned to Eric     |
+|   Network Epidemiology            	|  Hazel        |               | 
+
+
 
